@@ -16,7 +16,7 @@ Este proyecto analiza datos de torneos de fútbol utilizando la API de API-Sport
 
 1. Clona este repositorio:
 
-git clone https://github.com/tuusuario/football-data-analysis.git
+git clone https://github.com/PedroRoigM/FootballDataAnalysis.git
 
 #
 
